@@ -1,0 +1,27 @@
+﻿{
+    "version": "1.0.0-*",
+    "description": "dotnetliberty.DependencyInjection Tests",
+    "authors": [ "Armen Shimoon" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+    "frameworks": {
+        "dnxcore50": {
+            "dependencies": {
+                "Microsoft.CSharp": "4.0.1-beta-23516",
+                "Microsoft.Extensions.DependencyInjection": "1.0.0-rc1-final",
+                "System.Collections": "4.0.11-beta-23516",
+                "System.Linq": "4.0.1-beta-23516",
+                "System.Runtime": "4.0.21-beta-23516",
+                "System.Threading": "4.0.11-beta-23516",
+                "dotnetliberty.DependencyInjection": "",
+                "xunit": "2.2.0-beta1-build3239",
+                "xunit.runner.dnx": "2.1.0-rc1-build204",
+                "moq.netcore": "4.4.0-beta8"
+            }
+        }
+    },
+    "commands": {
+        "test": "xunit.runner.dnx"
+    }
+}
