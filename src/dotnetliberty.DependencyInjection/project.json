@@ -1,10 +1,10 @@
 ﻿{
     "version": "1.0.0-*",
     "title": "dotnetliberty.DependencyInjection",
-    "description": ".NET Core Dependency Injection Utilities and Extensions",
+    "description": ".NET Core Dependency Injection Tools and Extensions",
     "authors": [ "Armen Shimoon" ],
     "tags": [ "" ],
-    "projectUrl": "",
+    "projectUrl": "https://github.com/ashimoon/dotnetliberty-dependencyinjection",
     "licenseUrl": "",
 
     "frameworks": {

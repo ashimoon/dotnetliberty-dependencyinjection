@@ -3,8 +3,8 @@
     "description": "dotnetliberty.DependencyInjection Tests",
     "authors": [ "Armen Shimoon" ],
     "tags": [ "" ],
-    "projectUrl": "",
-    "licenseUrl": "",
+    "projectUrl": "https://github.com/ashimoon/dotnetliberty-dependencyinjection",
+    "licenseUrl": "https://github.com/ashimoon/dotnetliberty-dependencyinjection/blob/master/LICENSE.txt",
     "frameworks": {
         "dnxcore50": {
             "dependencies": {
